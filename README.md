@@ -1,2 +1,3 @@
-# restaurant-analysis
-Analysis of a Restaurant menu
+# Restaraunt Analysis using SQL
+
+**Goal:** 
